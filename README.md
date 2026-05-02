@@ -6,7 +6,7 @@
 ---
 
 ## 📹 Video Báo Cáo (Demo Video)
-👉 **Link Video Thuyết Trình:** **[BẠN HÃY CHÈN LINK YOUTUBE HOẶC GOOGLE DRIVE VÀO ĐÂY NHÉ]**
+👉 **Link Video Thuyết Trình:** **[Xem Video Demo Tại Đây](https://drive.google.com/file/d/1vzaCh2iZp3950lvUAFSai-jkbfC1X6bu/view?usp=sharing)**
 *(Kính mời cô nhấn vào đường link trên để xem chi tiết phần thuyết trình cấu trúc code và demo chức năng chạy trên thiết bị thực tế của em ạ)*
 
 ---
